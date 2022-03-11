@@ -1,0 +1,25 @@
+body {
+    background-color:aquamarine;
+}
+p {
+    font-size: larger;
+  
+}
+li{
+    font-size: larger;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+button {
+    width: 100px;
+    float: right;
+    position: fixed;
+    
+    
+}
+img {
+
+}
